@@ -1,4 +1,4 @@
-# AfriqueStream
+# Afrique Stream
 
 ## Overview
 AfriqueStream is an innovative live streaming platform aimed at showcasing the richness and diversity of African culture. 
